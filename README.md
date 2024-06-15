@@ -1,1 +1,1 @@
-# software-development-good-practice
+# good-practice-of-software-development
